@@ -141,7 +141,7 @@ export default function AktualneZajecia() {
   );
 
   return (
-    <div className="flex justify-center items-center h-screen mx-auto">
+    <div className="flex justify-center items-center mx-auto xl:h-screen">
       <MainWrapper>
         <DateNavigator
           currentDay={currentDay}
