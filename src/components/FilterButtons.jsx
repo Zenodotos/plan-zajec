@@ -5,20 +5,20 @@ export default function FilterButtons({ onFilter, activeFilter }) {
       <div className="flex flex-row gap-4">
         <button
           onClick={() => onFilter("A")}
-          className={`py-2 px-4 rounded ${
+          className={`py-3 px-5 rounded ${
             activeFilter === "A"
-              ? "bg-slate-600 text-white"
-              : "bg-slate-400 text-white"
+              ? "bg-[#718093] text-white"
+              : "bg-[#dcdde1] text-black"
           }`}
         >
           A
         </button>
         <button
           onClick={() => onFilter("B")}
-          className={`py-2 px-4 rounded ${
+          className={`py-3 px-5 rounded ${
             activeFilter === "B"
-              ? "bg-slate-600 text-white"
-              : "bg-slate-400 text-white"
+              ? "bg-[#718093] text-white"
+              : "bg-[#dcdde1] text-black"
           }`}
         >
           B

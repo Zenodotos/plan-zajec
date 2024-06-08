@@ -361,5 +361,159 @@
     "professorsName": "dr inż. Mateusz Piwowarski",
     "groupName": "AB",
     "classType": "W"
+  },
+  {
+    "className": "WYCHOWANIE FIZYCZNE",
+    "startHour": "8.15",
+    "endHour": "9.45",
+    "dayNumber": 1,
+    "isEvenWeek": false,
+    "roomNumber": "Sala Sportowa",
+    "professorsName": "SWFiS",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "WYCHOWANIE FIZYCZNE",
+    "startHour": "8.15",
+    "endHour": "9.45",
+    "dayNumber": 1,
+    "isEvenWeek": true,
+    "roomNumber": "Sala Sportowa",
+    "professorsName": "SWFiS",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "WYCHOWANIE FIZYCZNE",
+    "startHour": "10.00",
+    "endHour": "11.30",
+    "dayNumber": 1,
+    "isEvenWeek": false,
+    "roomNumber": "Sala Sportowa",
+    "professorsName": "SWFiS",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "WYCHOWANIE FIZYCZNE",
+    "startHour": "10.00",
+    "endHour": "11.30",
+    "dayNumber": 1,
+    "isEvenWeek": true,
+    "roomNumber": "Sala Sportowa",
+    "professorsName": "SWFiS",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "WYCHOWANIE FIZYCZNE",
+    "startHour": "12.00",
+    "endHour": "13.30",
+    "dayNumber": 1,
+    "isEvenWeek": false,
+    "roomNumber": "Sala Sportowa",
+    "professorsName": "SWFiS",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "WYCHOWANIE FIZYCZNE",
+    "startHour": "12.00",
+    "endHour": "13.30",
+    "dayNumber": 1,
+    "isEvenWeek": true,
+    "roomNumber": "Sala Sportowa",
+    "professorsName": "SWFiS",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "WYCHOWANIE FIZYCZNE",
+    "startHour": "13.45",
+    "endHour": "15.15",
+    "dayNumber": 1,
+    "isEvenWeek": false,
+    "roomNumber": "Sala Sportowa",
+    "professorsName": "SWFiS",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "WYCHOWANIE FIZYCZNE",
+    "startHour": "13.45",
+    "endHour": "15.15",
+    "dayNumber": 1,
+    "isEvenWeek": true,
+    "roomNumber": "Sala Sportowa",
+    "professorsName": "SWFiS",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "WYCHOWANIE FIZYCZNE",
+    "startHour": "15.30",
+    "endHour": "17.00",
+    "dayNumber": 1,
+    "isEvenWeek": false,
+    "roomNumber": "Sala Sportowa",
+    "professorsName": "SWFiS",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "WYCHOWANIE FIZYCZNE",
+    "startHour": "15.30",
+    "endHour": "17.00",
+    "dayNumber": 1,
+    "isEvenWeek": true,
+    "roomNumber": "Sala Sportowa",
+    "professorsName": "SWFiS",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "JĘZYK ANGIELSKI",
+    "startHour": "12.00",
+    "endHour": "13.30",
+    "dayNumber": 4,
+    "isEvenWeek": false,
+    "roomNumber": "s. 209 Ul. Wawrzyniaka 15",
+    "professorsName": "mgr Iwona Rokita-Lisiecka",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "JĘZYK ANGIELSKI",
+    "startHour": "12.00",
+    "endHour": "13.30",
+    "dayNumber": 4,
+    "isEvenWeek": true,
+    "roomNumber": "s. 209 Ul. Wawrzyniaka 15",
+    "professorsName": "mgr Iwona Rokita-Lisiecka",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "JĘZYK ANGIELSKI",
+    "startHour": "13.45",
+    "endHour": "15.15",
+    "dayNumber": 4,
+    "isEvenWeek": false,
+    "roomNumber": "s. 209 Ul. Wawrzyniaka 15",
+    "professorsName": "mgr Iwona Rokita-Lisiecka",
+    "groupName": "AB",
+    "classType": "ĆW"
+  },
+  {
+    "className": "JĘZYK ANGIELSKI",
+    "startHour": "13.45",
+    "endHour": "15.15",
+    "dayNumber": 4,
+    "isEvenWeek": true,
+    "roomNumber": "s. 209 Ul. Wawrzyniaka 15",
+    "professorsName": "mgr Iwona Rokita-Lisiecka",
+    "groupName": "AB",
+    "classType": "ĆW"
   }
 ]
